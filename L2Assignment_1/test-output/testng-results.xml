@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="4" failed="0" skipped="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Offers Link clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[BannerLogo Validation is passed]]>
+    </line>
+    <line>
+      <![CDATA[BrowserTitle Validation is passed]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot captured successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-12-08T17:24:08 IST" name="Default Suite" finished-at="2023-12-08T17:38:00 IST" duration-ms="831768">
+    <groups>
+    </groups>
+    <test started-at="2023-12-08T17:24:08 IST" name="L2Assignment_1" finished-at="2023-12-08T17:38:00 IST" duration-ms="831768">
+      <class name="testcases.YatraTestCases">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testcases.YatraTestCases@37918c79]" started-at="2023-12-08T17:24:08 IST" name="launchBrowser" finished-at="2023-12-08T17:25:40 IST" duration-ms="92295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="selectOffers()[pri:1, instance:testcases.YatraTestCases@37918c79]" started-at="2023-12-08T17:25:40 IST" name="selectOffers" finished-at="2023-12-08T17:26:18 IST" duration-ms="37518" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Offers Link clicked successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- selectOffers -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.YatraTestCases@37918c79]" started-at="2023-12-08T17:26:18 IST" name="teardown" finished-at="2023-12-08T17:26:19 IST" duration-ms="824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testcases.YatraTestCases@37918c79]" started-at="2023-12-08T17:26:19 IST" name="launchBrowser" finished-at="2023-12-08T17:27:54 IST" duration-ms="95196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validateBanner()[pri:2, instance:testcases.YatraTestCases@37918c79]" started-at="2023-12-08T17:27:54 IST" name="validateBanner" finished-at="2023-12-08T17:28:44 IST" duration-ms="49837" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[BannerLogo Validation is passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateBanner -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.YatraTestCases@37918c79]" started-at="2023-12-08T17:28:44 IST" name="teardown" finished-at="2023-12-08T17:28:44 IST" duration-ms="875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testcases.YatraTestCases@37918c79]" started-at="2023-12-08T17:28:44 IST" name="launchBrowser" finished-at="2023-12-08T17:30:48 IST" duration-ms="123771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validateDomestic()[pri:3, instance:testcases.YatraTestCases@37918c79]" started-at="2023-12-08T17:30:48 IST" name="validateDomestic" finished-at="2023-12-08T17:31:49 IST" duration-ms="60728" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[BrowserTitle Validation is passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateDomestic -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.YatraTestCases@37918c79]" started-at="2023-12-08T17:31:49 IST" name="teardown" finished-at="2023-12-08T17:31:50 IST" duration-ms="524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testcases.YatraTestCases@37918c79]" started-at="2023-12-08T17:31:50 IST" name="launchBrowser" finished-at="2023-12-08T17:34:46 IST" duration-ms="176502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="captureScreenshot()[pri:4, instance:testcases.YatraTestCases@37918c79]" started-at="2023-12-08T17:34:46 IST" name="captureScreenshot" finished-at="2023-12-08T17:34:48 IST" duration-ms="2098" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Screenshot captured successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.YatraTestCases@37918c79]" started-at="2023-12-08T17:34:48 IST" name="teardown" finished-at="2023-12-08T17:34:49 IST" duration-ms="964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testcases.YatraTestCases@37918c79]" started-at="2023-12-08T17:34:49 IST" name="launchBrowser" finished-at="2023-12-08T17:38:00 IST" duration-ms="190566" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[java.util.concurrent.TimeoutException
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [8a6392f743cfc95712900344aad9d91e, get {url=https://www.yatra.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.97, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53445}, msedge: {msedgedriverVersion: 119.0.2151.97 (42f50dec8b7a..., userDataDir: C:\Users\BHARGA~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53445/devtoo..., se:cdpVersion: 119.0.2151.97, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a6392f743cfc95712900344aad9d91e]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: java.util.concurrent.TimeoutException
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [8a6392f743cfc95712900344aad9d91e, get {url=https://www.yatra.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.97, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53445}, msedge: {msedgedriverVersion: 119.0.2151.97 (42f50dec8b7a..., userDataDir: C:\Users\BHARGA~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53445/devtoo..., se:cdpVersion: 119.0.2151.97, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a6392f743cfc95712900344aad9d91e
+at org.openqa.selenium.remote.http.netty.NettyHttpHandler.makeCall(NettyHttpHandler.java:65)
+at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42)
+at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55)
+at org.openqa.selenium.remote.http.netty.NettyHttpHandler.execute(NettyHttpHandler.java:48)
+at org.openqa.selenium.remote.http.netty.NettyClient.execute(NettyClient.java:96)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:188)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:304)
+at base.BaseTest.initliaze(BaseTest.java:58)
+at testcases.YatraTestCases.launchBrowser(YatraTestCases.java:29)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:810)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:577)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: java.util.concurrent.TimeoutException
+at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+at org.asynchttpclient.netty.NettyResponseFuture.get(NettyResponseFuture.java:206)
+at org.openqa.selenium.remote.http.netty.NettyHttpHandler.makeCall(NettyHttpHandler.java:59)
+... 42 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="getHolidayPackagesWithPrices()[pri:5, instance:testcases.YatraTestCases@37918c79]" started-at="2023-12-08T17:38:00 IST" name="getHolidayPackagesWithPrices" finished-at="2023-12-08T17:38:00 IST" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[java.util.concurrent.TimeoutException
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [8a6392f743cfc95712900344aad9d91e, get {url=https://www.yatra.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.97, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53445}, msedge: {msedgedriverVersion: 119.0.2151.97 (42f50dec8b7a..., userDataDir: C:\Users\BHARGA~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53445/devtoo..., se:cdpVersion: 119.0.2151.97, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a6392f743cfc95712900344aad9d91e]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: java.util.concurrent.TimeoutException
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [8a6392f743cfc95712900344aad9d91e, get {url=https://www.yatra.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 119.0.2151.97, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53445}, msedge: {msedgedriverVersion: 119.0.2151.97 (42f50dec8b7a..., userDataDir: C:\Users\BHARGA~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53445/devtoo..., se:cdpVersion: 119.0.2151.97, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a6392f743cfc95712900344aad9d91e
+at org.openqa.selenium.remote.http.netty.NettyHttpHandler.makeCall(NettyHttpHandler.java:65)
+at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42)
+at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55)
+at org.openqa.selenium.remote.http.netty.NettyHttpHandler.execute(NettyHttpHandler.java:48)
+at org.openqa.selenium.remote.http.netty.NettyClient.execute(NettyClient.java:96)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:188)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:304)
+at base.BaseTest.initliaze(BaseTest.java:58)
+at testcases.YatraTestCases.launchBrowser(YatraTestCases.java:29)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:810)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:577)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: java.util.concurrent.TimeoutException
+at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+at org.asynchttpclient.netty.NettyResponseFuture.get(NettyResponseFuture.java:206)
+at org.openqa.selenium.remote.http.netty.NettyHttpHandler.makeCall(NettyHttpHandler.java:59)
+... 42 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHolidayPackagesWithPrices -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.YatraTestCases@37918c79]" started-at="2023-12-08T17:38:00 IST" name="teardown" finished-at="2023-12-08T17:38:00 IST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.YatraTestCases -->
+    </test> <!-- L2Assignment_1 -->
+  </suite> <!-- Default Suite -->
+</testng-results>

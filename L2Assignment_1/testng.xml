@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/BhargaviK/Intelli J-Maven/L2Assignment_1">
+        <classes>
+            <class name="testcases.YatraTestCases">
+                <methods>
+                    <include name="selectOffers"/>
+                    <include name="validateBanner"/>
+                    <include name="validateDomestic"/>
+                    <include name="captureScreenshot"/>
+                    <include name="getHolidayPackagesWithPrices"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
